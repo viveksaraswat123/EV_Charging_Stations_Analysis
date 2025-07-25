@@ -39,9 +39,11 @@ Gained hands-on experience designing interactive visualizations
 Simulated a real-world EV infrastructure use case for better data storytelling
 
 📸 Preview:
-<img width="1920" height="1080" alt="Screenshot (29)" src="https://github.com/user-attachments/assets/d89705bb-8288-4fd0-9bc9-a984d8d50ea0" />
-<img width="1920" height="1080" alt="Screenshot (30)" src="https://github.com/user-attachments/assets/ec3b1a1c-6770-4703-bd3b-489397459187" />
-<img width="1920" height="1080" alt="Screenshot (31)" src="https://github.com/user-attachments/assets/dee8fbe9-e6e4-41b2-9df5-a00a9ba4d2d5" />
+<img width="1920" height="1080" alt="Screenshot (29)" src="https://github.com/user-attachments/assets/cd683347-f736-4460-9eaf-d625e2ea3580" />
+<img width="1920" height="1080" alt="Screenshot (30)" src="https://github.com/user-attachments/assets/42ece1c7-6b36-44a6-8856-a864f19abb41" />
+<img width="1920" height="1080" alt="Screenshot (31)" src="https://github.com/user-attachments/assets/a246dad3-e843-4551-815f-a393f4dd0d1f" />
+
+
 
 
 
