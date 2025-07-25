@@ -1,5 +1,5 @@
 # EV_Charging_Stations_Analysis
-🔌** EV Charging Dashboard | Tableau Project using Mock Data**
+🔌**EV Charging Dashboard | Tableau Project using Mock Data**
 
 This is a Tableau dashboard project built to analyze the performance of EV (Electric Vehicle) charging stations across major Indian cities.
 Since real-time data was not publicly available, a mock dataset was created to simulate realistic scenarios involving energy delivery, revenue generation, charger usage, and operational status.
